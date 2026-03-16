@@ -1,0 +1,5 @@
+Profile Features:
+1. User profile details
+2. Edit profile option
+3. Upload profile picture
+4. View account information
