@@ -1,0 +1,9 @@
+
+ADMIN DASHBOARD
+•	Society Overview (Key Metrics)
+•	Financial Summary
+•	Complaint Analytics
+•	Payment Collection Status
+•	Resident Statistics
+•	Visitor Summary
+•	Report Generation (PDF/Excel)
